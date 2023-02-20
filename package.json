@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/node": "^18.14.0"
+  },
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
+}
